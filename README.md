@@ -33,7 +33,7 @@
 ## HTML5 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <br>
 
 - [x] Elementos essenciais 
-- [ ] Elementos técnicos
+- [x] Elementos técnicos
 - [ ] Estruturas 
 - [ ] Listas 
 - [ ] Ligações 
@@ -92,9 +92,9 @@
 |5| Criando um repositório remoto | 01:00 hora|
 |6|CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
 |7|Introdução ao JavaScript (lógica) | 02:10 horas|
-|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica P. "Exercícios" |03:15|
-|9|Conhecendo elementos esseciais HMLT5|06:12 horas|
-|10|||
+|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica P. "Exercícios" |03:15 horas|
+|9|Conhecendo elementos esseciais HTML5|06:12 horas|
+|10| Elementos essenciais do HTML5 | 02:17 horas / |
 |11|||
 |12|||
 |13|||
