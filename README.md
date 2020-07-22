@@ -3,7 +3,7 @@
 </h1>
 
 ## Objetivos do desafio:
-- Programar no mínimo uma hora todos os dias durante os próximos 100 dias, assim criando uma rotina de estudos, melhorar meu nível de habilidade nas linguagens "Lógica de Programação (JavaScript), JavaScript, HTML5 - CSS3";
+- Programar no mínimo uma hora todos os dias durante os próximos 100 dias, assim criando uma rotina de estudos, melhorar meu nível de habilidade nas linguagens "Lógica de Programação (JavaScript), JavaScript, HTML5 - CSS3 e SQL";
 - Contéudos diarios <br>
 <a href="https://www.instagram.com/jullydeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram jully" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jullyana" height="20" width="20" /></a> 
 
