@@ -9,7 +9,7 @@
 
 - Contato:  **juselania2019@outlook.com**
 
-## Lógica de Programação com JavaScript <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="20" width="20"/><br>
+## Lógica de Programação com JavaScript <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="30"/><br>
 - [x] Conceitos básicos de programação 
 - [x] Algorítmos
 - [x] Essencial de lógica matemática para computação
