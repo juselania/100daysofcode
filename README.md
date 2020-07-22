@@ -94,7 +94,7 @@
 |7|Introdução ao JavaScript (lógica) | 02:10 horas|
 |8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica P. "Exercícios" |03:15 horas|
 |9|Conhecendo elementos esseciais HTML5|06:12 horas|
-|10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 | 1:20 / 01:12 horas |
+|10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 | 01:20 / 01:12 horas |
 |11|||
 |12|||
 |13|||
