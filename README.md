@@ -96,7 +96,7 @@
 |8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
 |9|Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
 |10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
-|11|||
+|11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
 |12|||
 |13|||
 |14|||
