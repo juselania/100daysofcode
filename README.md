@@ -98,7 +98,7 @@
 |10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
 |11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
 |12|Grid CSS| 03:22 horas|
-|13|||
+|13| Execícios usando grid-css| 03:00 horas |
 |14|||
 |15|||
 |16|||
