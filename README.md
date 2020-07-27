@@ -35,8 +35,8 @@
 
 - [x] Elementos essenciais 
 - [x] Elementos técnicos
-- [ ] Estruturas 
-- [ ] Listas 
+- [x] Estruturas 
+- [x] Listas 
 - [ ] Ligações 
 - [ ] Tabelas 
 - [ ] Formas 
@@ -99,7 +99,7 @@
 |11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
 |12|Grid CSS| 03:22 horas|
 |13| Execícios usando grid-css| 03:00 horas |
-|14|||
+|14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|||
 |16|||
 |17|||
