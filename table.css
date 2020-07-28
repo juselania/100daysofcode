@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.table-box{
+    margin: 50px auto;
+}
+.table-row{
+    display: table;
+    width: 80%;
+    margin: 10px auto;
+    font-family: sans-serif;
+    background: transparent;
+    padding: 12px 0 ;
+    color: #555;
+    font-size: 13px;
+    box-shadow: 0 1pc 4px 0 rgba(0,0,50,0.3);
+
+}
