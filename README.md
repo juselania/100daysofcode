@@ -3,19 +3,20 @@
 </h1>
 
 ## Objetivos do desafio:
-- Programar no mínimo uma hora todos os dias durante os próximos 100 dias, assim criando uma rotina de estudos, melhorar meu nível de habilidade nas linguagens "Lógica de Programação (JavaScript), JavaScript, HTML5 - CSS3";
-- Contéudos diarios <br>
+- Programar no mínimo uma hora todos os dias durante os próximos 100 dias, assim criando uma rotina de estudos, melhorar meu nível de habilidade no FrontEnd! Escolhi algumas técnologias para estudar durante o desafio, está logo abaixo!!! 
+
+- Contéudos diarios: <br>
 <a href="https://www.instagram.com/jullydeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram jully" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jullyana" height="20" width="20" /></a> 
 
 - Contato:  **juselania2019@outlook.com**
 
-## Lógica de Programação com JavaScript <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="20" width="20"/><br>
+## Lógica de Programação com JavaScript <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="30"/><br>
 - [x] Conceitos básicos de programação 
 - [x] Algorítmos
 - [x] Essencial de lógica matemática para computação
 - [x] HTML5 e JavaScript
 - [x] Introdução ao JavaScript
-- [ ] Variáveis, dados e tipos de dados 
+- [x] Variáveis, dados e tipos de dados 
 - [ ] Operações aritméticas
 - [ ] Laços de repetição
 - [ ] Vetores 
@@ -30,30 +31,30 @@
 - [ ] Comitar arquivo/diretório
 - [ ] Ramificações (Branch) 
 
-## HTML5 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <br>
+## HTML5 <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="30" height="30"/> <br>
 
 - [x] Elementos essenciais 
-- [ ] Elementos técnicos
-- [ ] Estruturas 
-- [ ] Listas 
+- [x] Elementos técnicos
+- [x] Estruturas 
+- [x] Listas 
 - [ ] Ligações 
 - [ ] Tabelas 
 - [ ] Formas 
 - [ ] Seletores de classes e IDs no HTML
 - [ ] Semântica
 
-## CSS3  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <br>
+## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
 
-- [ ] Textos 
+- [x] Textos 
 - [ ] Cores
 - [ ] Boxes 
-- [ ] CSS Grid
+- [x] CSS Grid
 - [ ] Flex box
 - [ ] Listas, tabelas e formulários
 - [ ] Processo e Design 
 - [ ] Trançado 
 
-## JavaScript   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <br>
+## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
 - [ ] ABC da programação 
 - [ ] Instruções básicas 
@@ -92,13 +93,13 @@
 |5| Criando um repositório remoto | 01:00 hora|
 |6|CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
 |7|Introdução ao JavaScript (lógica) | 02:10 horas|
-|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica P. "Exercícios" |03:15|
-|9|Conhecendo elementos esseciais HMLT5|06:12 horas|
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
+|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
+|9|Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
+|10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
+|11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
+|12|Grid CSS| 03:22 horas|
+|13| Execícios usando grid-css| 03:00 horas |
+|14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|||
 |16|||
 |17|||
@@ -185,7 +186,6 @@
 | 98 |  |  |  |
 | 99 |  |  |  |
 | 100 |  |  |  |
-
 
 
 Com ♥ Jully Developer! 
