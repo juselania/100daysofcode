@@ -39,7 +39,11 @@
 - [x] Listas 
 - [x] Ligações 
 - [x] Tabelas 
+<<<<<<< HEAD
 - [ ] Forms 
+=======
+- [ ] Formulários
+>>>>>>> baf6b0307c08f1e3d1ab67914f8fc7b39ef38c83
 - [ ] Seletores de classes e IDs no HTML
 - [ ] Semântica
 
