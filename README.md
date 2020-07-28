@@ -37,16 +37,16 @@
 - [x] Elementos técnicos
 - [x] Estruturas 
 - [x] Listas 
-- [ ] Ligações 
-- [ ] Tabelas 
-- [ ] Formas 
+- [x] Ligações 
+- [x] Tabelas 
+- [ ] Formulários
 - [ ] Seletores de classes e IDs no HTML
 - [ ] Semântica
 
 ## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
 
 - [x] Textos 
-- [ ] Cores
+- [x] Cores
 - [ ] Boxes 
 - [x] CSS Grid
 - [ ] Flex box
@@ -100,7 +100,7 @@
 |12|Grid CSS| 03:22 horas|
 |13| Execícios usando grid-css| 03:00 horas |
 |14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
-|15|||
+|15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30 / 00:45 / 00:33 Hr |
 |16|||
 |17|||
 |18|||
