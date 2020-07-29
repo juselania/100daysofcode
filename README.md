@@ -28,7 +28,7 @@
 - [x] Configuração
 - [x] Essencial do Git 
 - [x] Repositórios Remotos 
-- [ ] Comitar arquivo/diretório
+- [x] Comitar arquivo/diretório
 - [ ] Ramificações (Branch) 
 - [ ] Clone
 
@@ -102,7 +102,7 @@
 |13| Execícios usando grid-css| 03:00 horas |
 |14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30 / 00:45 / 00:33 Hr |
-|16|||
+|16|Comitar arquivo / Paticando Tabelas HTML e CSS | 01:00 / 01:20 Hora |
 |17|||
 |18|||
 |19|||
