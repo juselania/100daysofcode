@@ -102,7 +102,7 @@
 |13| Execícios usando grid-css| 03:00 horas |
 |14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30 / 00:45 / 00:33 Hr |
-|16|Comitar arquivo / Paticando Tabelas HTML e CSS / Palestra Desenvolvimento Web(Porto Digital| 01:00 / 01:20 / 03:00 Horas |
+|16|Aprendendo a Comitar arquivos (GitHub) / Paticando Tabelas HTML e CSS / Palestra sobre Desenvolvimento Web (Porto Digital)| 01:00 / 01:20 / 03:00 Horas |
 |17|||
 |18|||
 |19|||
