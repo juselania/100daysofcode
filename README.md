@@ -103,9 +103,9 @@
 |14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30 / 00:45 / 00:33 Hr |
 |16|Aprendendo a Comitar arquivos (GitHub) / Paticando Tabelas HTML e CSS / Palestra sobre Desenvolvimento Web (Porto Digital)| 01:00 / 01:20 / 03:00 Horas |
-|17|||
-|18|||
-|19|||
+|17|Resvisão|00:40 minutos|
+Resvisão|00:40 minutos|
+|19|Criação de animações usando HTMl e CSS |01:40 hora|
 |20|||
 |21|||
 |22|||
