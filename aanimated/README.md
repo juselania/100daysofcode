@@ -6,7 +6,7 @@ Intuito deste layout é por em prática meus conhecimentos durante os #100daysof
 
 Clone o repositório:
 ````
-git clone https://github.com/jucelania/animated
+git clone https://github.com/jucelania/100daysofcode
 ````
 
 ✅ HTML 5 <br>
