@@ -106,7 +106,7 @@
 |17|Resvisão|00:40 minutos|
 |18|Resvisão|00:40 minutos|
 |19|Criação de animações usando HTMl e CSS |01:40 hora|
-|20|||
+|20|Exercícios HTML/CSS|20horas|
 |21|||
 |22|||
 |23|||
