@@ -106,14 +106,14 @@
 |17|Resvisão|00:40 minutos|
 |18|Resvisão|00:40 minutos|
 |19|Criação de animações usando HTMl e CSS |01:40 hora|
-|20|Exercícios HTML/CSS|20horas|
-|21|||
-|22|||
-|23|||
-|24|||
-|25|||
-|26|||
-|27|||
+|20|Exercícios HTML/CSS|01:45 hora|
+|21|Exercícios HTML/CSS|01:55 hora|
+|22|Exercícios HTML/CSS|02:48 horas|
+|23|Exercícios JavaScript|03:00 horas|
+|24|Exercícios JavaScript|04:30 horas|
+|25|Exercícios JavaScript e SQL|08:00 horas|
+|26|Exercícios JavaScript e SQL|05:10 horas|
+|27|revisão |00: 40 minutos|
 |28|||
 |29|||
 |30|||
