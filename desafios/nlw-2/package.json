@@ -1,0 +1,25 @@
+{
+  "name": "nlw-2",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"Proffy\" title=\"Proffy\" src=\"./public/images/logo2.0.svg\" width=\"220px\" />\r </h1>",
+  "main": "test.js",
+  "scripts": {
+    "dev": "nodemon  src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucelania/nlw-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jucelania/nlw-2/issues"
+  },
+  "homepage": "https://github.com/jucelania/nlw-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
