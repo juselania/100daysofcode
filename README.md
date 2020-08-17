@@ -51,7 +51,7 @@
 - [ ] Boxes 
 - [x] CSS Grid
 - [ ] Flex box
-- [ ] Listas, tabelas e formulários
+- [x] Listas, tabelas e formulários
 - [ ] Processo e Design 
 - [ ] Trançado 
 
@@ -117,9 +117,9 @@
 |28|Exercícios SQLite| 02:42 horas|
 |29|Exercícios SQLite|02:20 horas|
 |30|Exercícios SQLite|03:20 horas|
-| 31 |  |  |  |
-| 32 |  |  |  |
-| 33 |  |  |  |
+| 31 |Entendendo Listas na pratica HTML | 02:45 horas |  
+| 32 | Entendendo Listas na pratica HTML | 01:50 hora |  
+| 33 | Exercícios Listas com CSS | 03:00 horas |  
 | 34 |  |  |  |
 | 35 |  |  |  |
 | 36 |  |  |  |
