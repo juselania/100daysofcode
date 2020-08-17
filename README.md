@@ -8,7 +8,9 @@
 - Contéudos diarios: <br>
 <a href="https://www.instagram.com/jullydeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram jully" height="20" width="20" /></a> <a href="https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jullyana" height="20" width="20" /></a> 
 
-- Contato:  **juselania2019@outlook.com**
+- Contato:  **juselania2019@outlook.com** <br>
+- Inicio da maratona 13 de julho de 2020 <hr>
+
 
 ## Lógica de Programação com JavaScript <img align="center" src="https://image.flaticon.com/icons/png/512/1779/1779335.png" alt="logica de programacao" height="30" width="30"/><br>
 - [x] Conceitos básicos de programação 
