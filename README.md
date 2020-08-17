@@ -114,9 +114,9 @@
 |25|Exercícios JavaScript e SQL|08:00 horas|
 |26|Exercícios JavaScript e SQL|05:10 horas|
 |27|revisão |00: 40 minutos|
-|28|||
-|29|||
-|30|||
+|28|Exercícios SQLite| 02:42 horas|
+|29|Exercícios SQLite|02:20 horas|
+|30|Exercícios SQLite|03:20 horas|
 | 31 |  |  |  |
 | 32 |  |  |  |
 | 33 |  |  |  |
