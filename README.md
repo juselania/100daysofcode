@@ -122,8 +122,8 @@
 | 31 |Entendendo Listas na pratica HTML | 02:45 horas |  
 | 32 | Entendendo Listas na pratica HTML | 01:50 hora |  
 | 33 | Exercícios Listas com CSS | 03:00 horas |  
-| 34 | Desafio listas e efeitos (HTML/CSS)| 00:30m |  
-| 35 |  |  |  |
+| 34 | Tipos de dados (lógica de programação) | 01:00 hora |
+| 35 | Desafio listas e efeitos (HTML/CSS)| 00:40m |
 | 36 |  |  |  |
 | 37 |  |  |  |
 | 38 |  |  |  |
