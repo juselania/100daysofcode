@@ -19,6 +19,7 @@
 - [x] HTML5 e JavaScript
 - [x] Introdução ao JavaScript
 - [x] Variáveis, dados e tipos de dados 
+- [x] Ordem de Precedência
 - [ ] Operações aritméticas
 - [ ] Laços de repetição
 - [ ] Vetores 
@@ -57,6 +58,7 @@
 - [x] Listas, tabelas e formulários
 - [ ] Processo e Design 
 - [ ] Trançado 
+- [ ] Animações 
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
@@ -125,7 +127,7 @@
 | 33 | Exercícios Listas com CSS | 03:00 horas |  
 | 34 | Tipos de dados (lógica de programação) | 01:00 hora |
 | 35 | Desafio listas e efeitos (HTML/CSS)| 00:40m |
-| 36 |  |  |  |
+| 36 | Ordem de Precendências com operadores lógicos / Animações com CSS3 | 02:00 / 00:40m |  
 | 37 |  |  |  |
 | 38 |  |  |  |
 | 39 |  |  |  |
