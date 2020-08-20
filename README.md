@@ -20,6 +20,7 @@
 - [x] Introdução ao JavaScript
 - [x] Variáveis, dados e tipos de dados 
 - [x] Ordem de Precedência
+- [x] Armazenar Dados na variável
 - [ ] Operações aritméticas
 - [ ] Laços de repetição
 - [ ] Vetores 
@@ -128,7 +129,7 @@
 | 34 | Tipos de dados (lógica de programação) | 01:00 hora |
 | 35 | Desafio listas e efeitos (HTML/CSS)| 00:40m |
 | 36 | Ordem de Precendências com operadores lógicos / Animações com CSS3 | 02:00 / 00:40m |  
-| 37 |  |  |  |
+| 37 | Armazenamento de dados dentro da variável (lógica)/ Exercícios (Lógica de P. + Html e Css/  | 01:40 / 02:30 Horas | 
 | 38 |  |  |  |
 | 39 |  |  |  |
 | 40 |  |  |  |
