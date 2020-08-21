@@ -130,7 +130,7 @@
 | 35 | Desafio listas e efeitos (HTML/CSS)| 00:40m |
 | 36 | Ordem de Precendências com operadores lógicos / Animações com CSS3 | 02:00 / 00:40m |  
 | 37 | Armazenamento de dados dentro da variável (lógica)/ Exercícios (Lógica de P. + Html e Css/  | 01:40 / 02:30 Horas | 
-| 38 |  |  |  |
+| 38 |  Animações HTML5/CSS3| 00:42m |  
 | 39 |  |  |  |
 | 40 |  |  |  |
 | 41 |  |  |  |
