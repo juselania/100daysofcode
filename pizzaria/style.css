@@ -25,6 +25,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 12%;
 }
 .menu ul{
     display: flex;
@@ -33,5 +34,5 @@ a{
     padding: 0px 30px;
     font-family: calibri;
     font-weight: bold;
-    color: #FFFF;
+    color: #FFFFFF;
 }

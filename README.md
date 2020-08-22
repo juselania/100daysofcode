@@ -131,7 +131,7 @@
 | 36 | Ordem de Precendências com operadores lógicos / Animações com CSS3 | 02:00 / 00:40m |  
 | 37 | Armazenamento de dados dentro da variável (lógica)/ Exercícios (Lógica de P. + Html e Css/  | 01:40 / 02:30 Horas | 
 | 38 |  Animações HTML5/CSS3| 00:42m |  
-| 39 |  |  |  |
+| 39 | Efeitos CSS3 | 00:35 / |  
 | 40 |  |  |  |
 | 41 |  |  |  |
 | 42 |  |  |  |
