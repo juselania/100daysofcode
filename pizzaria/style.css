@@ -170,5 +170,10 @@ a{
 .food-1, .food-2, .food-3{
     width: 354px;
     height: 350px;
-    margin: ;
+    margin: 10px;
+    background-color: #b1b1b1;
+}
+.second-row{
+    display: flex;
+    
 }
