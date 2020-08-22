@@ -155,3 +155,20 @@ a{
     border-radius: 0px 20px 20px 0px ;
     border-left: 1px solid #CDCACA;
 }
+.order{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.order a{
+    font-size: 40px;
+    font-family: calibri;
+    font-weight: bold;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    color: #FFFFFF;
+}
+.food-1, .food-2, .food-3{
+    width: 354px;
+    height: 350px;
+    margin: ;
+}
