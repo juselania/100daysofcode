@@ -115,6 +115,9 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
 }
 .search p{
     color: #FFFFFF;
@@ -138,6 +141,17 @@ a{
     border: none;
     background-color: transparent;
     color: #000000;
-    align-items: center;
+    text-align: center;
     outline: none;
+}
+.text button{
+    height: 35px;
+    width: 70px;
+    border: none;
+    color: #0b0b0b;
+    font-family: calibri;
+    font-weight: bold;
+    outline: none;
+    border-radius: 0px 20px 20px 0px ;
+    border-left: 1px solid #CDCACA;
 }
