@@ -171,9 +171,12 @@ a{
     width: 354px;
     height: 350px;
     margin: 10px;
-    background-color: #b1b1b1;
 }
 .second-row{
     display: flex;
-    
+}
+.food-1{
+    background-image: url('./image/unnamed.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
