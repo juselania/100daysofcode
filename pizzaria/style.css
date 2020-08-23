@@ -219,3 +219,27 @@ a{
     border-radius: 20px;
     box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
 }
+.flavor, .breakfast{
+    font-family: calibri;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 0px;
+    width: 540px;
+    height: 180px;
+    margin: 10px;
+background-color: #b1b1b1;
+}
+.third-row{
+    display: flex;
+}
+.flavor{
+    background-image: url('./image/44.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.breakfast{
+    background-image: url('./image/slide3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
