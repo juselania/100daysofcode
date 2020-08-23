@@ -222,12 +222,13 @@ a{
 .flavor, .breakfast{
     font-family: calibri;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     line-height: 0px;
     width: 540px;
     height: 180px;
-    margin: 10px;
+    margin: 0px;
 background-color: #b1b1b1;
 }
 .third-row{
@@ -242,4 +243,15 @@ background-color: #b1b1b1;
     background-image: url('./image/slide3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+.flavor p:nth-child(1),
+.breakfast p:nth-child(1){
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+}
+.flavor p:nth-child(2),
+.breakfast p:nth-child(2){
+   color: rgba(255,255,255,0.5);
+    font-size: 20px;
 }
