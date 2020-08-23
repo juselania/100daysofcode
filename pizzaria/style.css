@@ -171,6 +171,26 @@ a{
     width: 354px;
     height: 350px;
     margin: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px  5%;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.food-1 p, .food-2 p, .food-3 p{
+    margin: 0px;
+    padding: 0px;
+    color: #FFFFFF;
+    font-family: calibri;
+    line-height: 40px;
+}
+.name p:nth-child(1){
+    font-weight: bold;
+    font-size: 40px;
+}
+.name p:nth-child(2){
+    font-weight: 400;
+    font-size: 30px;
 }
 .second-row{
     display: flex;
@@ -189,4 +209,13 @@ a{
     background-image: url('./image/cofee.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+.price button{
+    color: #FFFF;
+    border: none;
+    background-color: #ea272d;
+    width: 70px;
+    height: 35px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
 }
