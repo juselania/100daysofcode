@@ -180,3 +180,13 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.food-2{
+    background-image: url('./image/slide2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.food-3{
+    background-image: url('./image/cofee.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
