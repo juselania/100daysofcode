@@ -271,3 +271,28 @@ line-height: 40px;
 .social img{
     height: 15px;
 }
+.social ul l a{
+    padding: 15px;
+}
+.footer-menu ul li a{
+    border-left: 3px solid #2e2e2e;
+    color: rgba(255,255,255,0.8);
+}
+.navigation-content{
+    border-bottom:2px solid rgba(255,255,255,0.1);
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: myriad pro;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.copyright p{
+    color: #b9b9b9;
+}
+.new, .search,.order,  .food-1,.food-2,.food-3,.flavor,.breakfast{
+    border-radius: 10px;
+}
