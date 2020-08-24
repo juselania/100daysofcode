@@ -252,6 +252,22 @@ background-color: #b1b1b1;
 }
 .flavor p:nth-child(2),
 .breakfast p:nth-child(2){
-   color: rgba(255,255,255,0.5);
+   color: rgba(255,255,255,0.8);
     font-size: 20px;
+    text-align: center;
+}
+.flavor p , .breakfast p{
+    margin: 0px;
+    padding: 0px;
+line-height: 40px;
+}
+.footer{
+    background-color: #0a0a0a;
+    height: 150px;
+}
+.social ul{
+    display: flex;
+}
+.social img{
+    height: 15px;
 }
