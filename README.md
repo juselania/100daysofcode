@@ -132,9 +132,9 @@
 | 37 | Armazenamento de dados dentro da variável (lógica)/ Exercícios (Lógica de P. + Html e Css/  | 01:40 / 02:30 Horas | 
 | 38 |  Animações HTML5/CSS3| 00:42m |  
 | 39 | Efeitos CSS3 | 00:35 / |  
-| 40 |  |  |  |
-| 41 |  |  |  |
-| 42 |  |  |  |
+| 40 | Revisão (desafio Pizzaria)| 02:00 horas |  
+| 41 | Aniações CSS| 01:00 hora  |  
+| 42 | Animações CSS (Icones)| 01:00 hora |  
 | 43 |  |  |  |
 | 44 |  |  |  |
 | 45 |  |  |  |
