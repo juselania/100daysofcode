@@ -46,7 +46,7 @@
 - [x] Listas 
 - [x] Ligações 
 - [x] Tabelas 
-- [ ] Formulários
+- [x] Formulários
 - [ ] Seletores de classes e IDs no HTML
 - [ ] Semântica
 
