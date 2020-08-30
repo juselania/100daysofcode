@@ -61,7 +61,7 @@
 - [x] Listas, tabelas e formulários
 - [ ] Processo e Design 
 - [ ] Trançado 
-- [ ] Animações 
+- [ ] Animações .
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
