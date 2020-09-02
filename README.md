@@ -139,10 +139,10 @@
 | 41 | Aniações CSS| 01:00 hora  |  
 | 42 | Animações CSS (Icones)| 01:00 hora |  
 | 43 | Desafio HTML5 e CSS3  | 01:00 hora |
-| 44 |  |  |  |
-| 45 |  |  |  |
-| 46 |  |  |  |
-| 47 |  |  |  |
+| 44 |   Desafio Logica de Programação|  01:00 hora |  
+| 45 | Revisão HTML5 (Listas)|  01:20 hora |
+| 46 | Revisão CSS3 (Estilizações e Animações) |  01:00 hora|  
+| 47 | Desafio (HTML E CSS) - Urban-Fashion |  00:40m |
 | 48 |  |  |  |
 | 49 |  |  |  |
 | 50 |  |  |  |
