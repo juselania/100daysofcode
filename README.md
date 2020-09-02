@@ -138,7 +138,7 @@
 | 40 | Revisão (desafio Pizzaria)| 02:00 horas |  
 | 41 | Aniações CSS| 01:00 hora  |  
 | 42 | Animações CSS (Icones)| 01:00 hora |  
-| 43 |  |  |  |
+| 43 | Desafio HTML5 e CSS3  | 01:00 hora |
 | 44 |  |  |  |
 | 45 |  |  |  |
 | 46 |  |  |  |
