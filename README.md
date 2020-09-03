@@ -101,13 +101,13 @@
 |3|Essencial de lógica matemática para computação|03:00 horas|
 |4|Interagindo com HTML5 e JavaScript (lógica de programação)|04:08 horas|
 |5| Criando um repositório remoto | 01:00 hora|
-|6|CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
-|7|Introdução ao JavaScript (lógica) | 02:10 horas|
-|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
-|9|Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
+|6| CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
+|7| Introdução ao JavaScript (lógica) | 02:10 horas|
+|8| Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
+|9| Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
 |10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
 |11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
-|12|Grid CSS| 03:22 horas|
+|12| Grid CSS| 03:22 horas|
 |13| Execícios usando grid-css| 03:00 horas |
 |14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30m/00:45m/00:33m |
@@ -133,7 +133,7 @@
 | 35 | Desafio listas e efeitos (HTML/CSS)| 00:40m |
 | 36 | Ordem de Precendências com operadores lógicos / Animações com CSS3 | 02:00 / 00:40m |  
 | 37 | Armazenamento de dados dentro da variável (lógica)/ Exercícios (Lógica de P. + Html e Css/  | 01:40 / 02:30 Horas | 
-| 38 |  Animações HTML5/CSS3| 00:42m |  
+| 38 | Animações HTML5/CSS3| 00:42m |  
 | 39 | Efeitos CSS3 | 00:35 / |  
 | 40 | Revisão (desafio Pizzaria)| 02:00 horas |  
 | 41 | Aniações CSS| 01:00 hora  |  
