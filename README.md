@@ -143,9 +143,9 @@
 | 45 | Revisão HTML5 (Listas)|  01:20 hora |
 | 46 | Revisão CSS3 (Estilizações e Animações) |  01:00 hora|  
 | 47 | Desafio (HTML E CSS) - Urban-Fashion |  00:40m |
-| 48 |  |  |  |
-| 49 |  |  |  |
-| 50 |  |  |  |
+| 48 |  Designer de imagens (HTML & CSS)|00:40m |
+| 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
+| 50 |  Entrada de estilos + Criação de Layout| 02:30 horas |
 | 51 |  |  |  |
 | 52 |  |  |  |
 | 53 |  |  |  |
