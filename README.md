@@ -100,16 +100,16 @@
 |2|Conceitos Básicos da programação / Algoritmos |06:15 horas|
 |3|Essencial de lógica matemática para computação|03:00 horas|
 |4|Interagindo com HTML5 e JavaScript (lógica de programação)|04:08 horas|
-|5| Criando um repositório remoto | 01:00 hora|
-|6| CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
-|7| Introdução ao JavaScript (lógica) | 02:10 horas|
-|8| Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
-|9| Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
-|10| Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
-|11| DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
-|12| Grid CSS| 03:22 horas|
-|13| Execícios usando grid-css| 03:00 horas |
-|14| Entendendo estrutura do HTML5/ Listas | 02:34 Horas
+|5|Criando um repositório remoto | 01:00 hora|
+|6|CONT...Interagindo com HTML5 e JavaScript (lógica de programação)|04:20 horas|
+|7|Introdução ao JavaScript (lógica) | 02:10 horas|
+|8|Criando o primeiro projeto com JavaScript e HTML5 (Lógica p. "Exercícios") |03:15 horas|
+|9|Conhecendo elementos esseciais HTML5/ Textos CSS3 |04:12 02:16 horas|
+|10|Variáveis, dados e tipos de dados/Elementos técnicos do HTML5 / Entendendo Grid | 01:20 / 01:12 horas/ 00:51 minutos |
+|11|DevSecOps, LGPD e privacidade (Dev Submmit) |01:00 Hora|
+|12|Grid CSS| 03:22 horas|
+|13|Execícios usando grid-css| 03:00 horas |
+|14|Entendendo estrutura do HTML5/ Listas | 02:34 Horas
 |15|Exercírcios (Grid-CSS3) / Cores CSS / Tabelas HTML5 |00:30m/00:45m/00:33m |
 |16|Aprendendo a Comitar arquivos (GitHub) / Paticando Tabelas HTML e CSS / Palestra sobre Desenvolvimento Web (Porto Digital)| 01:00 / 01:20 / 03:00 Horas |
 |17|Resvisão|00:40 minutos|
