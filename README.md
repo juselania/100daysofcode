@@ -147,7 +147,7 @@
 | 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
 | 50 | Entrada de estilos + Criação de Layout| 02:30 horas |
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
-| 52 | New Project (GYM)| 00:10  |
+| 52 | New Project (GYM)| ... |
 | 53 |  |  |  |
 | 54 |  |  |  |
 | 55 |  |  |  |
