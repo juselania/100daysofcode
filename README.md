@@ -33,7 +33,7 @@
 - [x] Essencial do Git 
 - [x] Repositórios Remotos 
 - [x] Comitar arquivo/diretório
-- [ ] Ramificações (Branch) 
+- [x] Ramificações (Branch) 
 - [ ] Clone
 - [ ] Conceitos sobre README
 - [ ] Criando gif no README
@@ -54,7 +54,7 @@
 
 
 - [x] Textos
-- [ ] Imagens 
+- [x] Imagens 
 - [x] Cores
 - [ ] Boxes 
 - [x] CSS Grid
@@ -146,7 +146,7 @@
 | 48 | Designer de imagens (HTML & CSS)|00:40m |
 | 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
 | 50 | Entrada de estilos + Criação de Layout| 02:30 horas |
-| 51 |  |  |  |
+| 51 | ABC da programação (JavaScript) | 03:40 horas |
 | 52 |  |  |  |
 | 53 |  |  |  |
 | 54 |  |  |  |

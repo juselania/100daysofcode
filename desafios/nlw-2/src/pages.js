@@ -42,7 +42,7 @@ async function pageStudy(req, res) {
     }catch (error) {
         console.log(error)
     }
-    
+
 
 }
 
