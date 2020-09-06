@@ -52,7 +52,6 @@
 
 ## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
 
-
 - [x] Textos
 - [x] Imagens 
 - [x] Cores
@@ -148,7 +147,7 @@
 | 50 | Entrada de estilos + Criação de Layout| 02:30 horas |
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
 | 52 | New Project (GYM)| ... |
-| 53 |  |  |  |
+| 53 | New Project (GYM)| ... |
 | 54 |  |  |  |
 | 55 |  |  |  |
 | 56 |  |  |  |
