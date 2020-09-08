@@ -55,10 +55,14 @@
 - [ ] Iframe
 - [ ] Caracteres de escape
 - [ ] Flash, Vídeo e áudio
-- [x] Combinando flash e vídeo
+- [ ] Combinando flash e vídeo
 - [ ] Flash leitor leitor de mp3
 - [ ] Semântica
-
+- [ ] Layout
+- [ ] Designer
+- [ ] Wireframes
+- [ ] Agrupamento e semelhança
+- [ ] SEO
 
 ## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
 
@@ -68,14 +72,12 @@
 - [x] Fontes
 - [x] Boxes
 - [x] Formas
-- [x] Imagens 
-- [x] Cores
-- [ ] Boxes 
-- [x] CSS Grid
-- [ ] Flex box
-- [ ] Processo e Design 
 - [ ] Trançado 
-- [ ] Animações 
+- [ ] Resposividade
+- [ ] Imagens
+- [ ] CSS Grid
+- [ ] Flex box
+- [ ] Animações
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
