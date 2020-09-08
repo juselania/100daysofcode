@@ -149,7 +149,7 @@
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
 | 52 | New Project (GYM)| ... |
 | 53 | New Project (GYM)| ... |
-| 54 |  |  |  |
+| 54 |New Project (GYM)| ... |
 | 55 |  |  |  |
 | 56 |  |  |  |
 | 57 |  |  |  |
