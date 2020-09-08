@@ -56,7 +56,8 @@
 - [ ] Caracteres de escape
 - [ ] Flash, Vídeo e áudio
 - [x] Combinando flash e vídeo
-- [x] FlexBox
+- [ ] Flash leitor leitor de mp3
+- [ ] FlexBox
 - [ ] Semântica
 
 
