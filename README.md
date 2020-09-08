@@ -57,7 +57,6 @@
 - [ ] Flash, Vídeo e áudio
 - [x] Combinando flash e vídeo
 - [ ] Flash leitor leitor de mp3
-- [ ] FlexBox
 - [ ] Semântica
 
 
@@ -69,7 +68,6 @@
 - [ ] Boxes 
 - [x] CSS Grid
 - [ ] Flex box
-- [x] Listas, tabelas e formulários
 - [ ] Processo e Design 
 - [ ] Trançado 
 - [ ] Animações 
