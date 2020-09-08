@@ -60,3 +60,24 @@ section video{
     background: linear-gradient(to left, #00f, #f00);/*efect color the video*/
     mix-blend-mode: overlay; /*visible the video*/
 }
+.text{
+    position: relative;
+    z-index: 10; /*visible the text*/
+}
+.text h2{ 
+    font-size: 6em;
+    font-weight: 800;
+    color: #fff;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+.text h3{ 
+    font-size: 6em;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+.text p{
+    
+}
