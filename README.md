@@ -49,7 +49,13 @@
 - [x] Ligações 
 - [x] Tabelas 
 - [x] Formulários
+- [ ] Estrutura dos formulários
+- [ ] Validação de formulátio
 - [x] Seletores de classes e IDs no HTML
+- [ ] Iframe
+- [ ] Caracteres de escape
+- [ ] Flash, Vídeo e áudio
+- [x] Combinando flash e vídeo
 - [x] FlexBox
 - [ ] Semântica
 
