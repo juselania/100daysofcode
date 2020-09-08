@@ -43,13 +43,16 @@
 
 - [x] Elementos essenciais 
 - [x] Elementos técnicos
+- [x] Grid layout
 - [x] Estruturas 
 - [x] Listas 
 - [x] Ligações 
 - [x] Tabelas 
 - [x] Formulários
 - [x] Seletores de classes e IDs no HTML
+- [x] FlexBox
 - [ ] Semântica
+
 
 ## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
 
@@ -147,8 +150,8 @@
 | 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
 | 50 | Entrada de estilos + Criação de Layout| 02:30 horas |
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
-| 52 | New Project (GYM)| 01:00hr|
-| 53 | New Project (GYM)| 01:00hr|
+| 52 | Listas, responsividade, video e imagens| 01:00hr|
+| 53 | Exercírcio (GYM - WebSite) | 01:20hr |
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
 | 55 | Entendendo Flexbox + WebSite (Flexbox) |  ...  |
 | 56 |  |  |  |
