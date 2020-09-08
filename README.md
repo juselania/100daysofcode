@@ -150,7 +150,7 @@
 | 52 | New Project (GYM)| 01:00hr|
 | 53 | New Project (GYM)| 01:00hr|
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
-| 55 |  |  |  |
+| 55 | Entendendo Flexbox + WebSite (Flexbox) |  ...  |
 | 56 |  |  |  |
 | 57 |  |  |  |
 | 58 |  |  |  |
