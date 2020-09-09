@@ -173,7 +173,7 @@
 |27|revisão (lógica de programação e HTML/CSS) |00: 40 minutos|
 |28|Desafio animação (Html & Css)| 02:42 horas|
 |29|Desafio icones (Html & Css)|02:20 horas|
-|30|Exercícios SQLite|03:20 horas|
+|30|Desafio urban-fashion (Html & Css)|03:20 horas|
 | 31 |Entendendo Listas na pratica HTML | 02:45 horas |  
 | 32 | Entendendo Listas na pratica HTML | 01:50 hora |  
 | 33 | Exercícios Listas com CSS | 03:00 horas |  
