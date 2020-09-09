@@ -71,6 +71,7 @@
 - [x] Fontes
 - [x] Boxes
 - [x] Formas
+- [ ] Nav Bar
 - [ ] Trançado 
 - [ ] Resposividade
 - [ ] Imagens
