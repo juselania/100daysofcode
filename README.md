@@ -163,16 +163,16 @@
 |17|Resvisão|00:40 minutos|
 |18|Resvisão|00:40 minutos|
 |19|Criação de animações usando HTMl e CSS |01:40 hora|
-|20|Exercícios HTML/CSS|01:45 hora|
-|21|Exercícios HTML/CSS|01:55 hora|
-|22|Exercícios HTML/CSS|02:48 horas|
-|23|Exercícios JavaScript|03:00 horas|
-|24|Exercícios JavaScript|04:30 horas|
-|25|Exercícios JavaScript e SQL|08:00 horas|
-|26|Exercícios JavaScript e SQL|05:10 horas|
-|27|revisão |00: 40 minutos|
-|28|Exercícios SQLite| 02:42 horas|
-|29|Exercícios SQLite|02:20 horas|
+|20|Exercícios (HTML/CSS - NLW2)|01:45 hora|
+|21|Exercícios (HTML/CSS - NLW2)|01:55 hora|
+|22|Exercícios (HTML/CSS - NLW2)|02:48 horas|
+|23|Exercícios HTML/CSS - NLW2) |03:00 horas|
+|24|Exercícios (HTML/CSS - NLW2)|04:30 horas|
+|25|Exercícios (HTML & CSS)|08:00 horas|
+|26|Exercícios (lógica de programação)|05:10 horas|
+|27|revisão (lógica de programação e HTML/CSS) |00: 40 minutos|
+|28|Desafio animação (Html & Css)| 02:42 horas|
+|29|Desafio icones (Html & Css)|02:20 horas|
 |30|Exercícios SQLite|03:20 horas|
 | 31 |Entendendo Listas na pratica HTML | 02:45 horas |  
 | 32 | Entendendo Listas na pratica HTML | 01:50 hora |  
