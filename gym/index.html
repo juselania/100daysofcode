@@ -9,18 +9,18 @@
 <body>
     <div class="menu">
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Training</a></li>
-            <li><a href="#">Team</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#" onclick="toggleMenu()">Home</a></li>
+            <li><a href="#" onclick="toggleMenu()">About</a></li>
+            <li><a href="#" onclick="toggleMenu();">Training</a></li>
+            <li><a href="#" onclick="toggleMenu();">Team</a></li>
+            <li><a href="#" onclick="toggleMenu();">Contact</a></li>
         </ul>
     </div>
 
     <section class="banner">
         <header>
             <h2 class="logo">Your Logo</h2>
-            <div class="toggle"></div>
+            <div class="toggle" onclick="toggleMenu();"></div>
         </header>
 
         <video src="gb.mp4" muted loop autoplay></video>
@@ -44,5 +44,14 @@
         </ul>
 
     </section>
+
+    <script type="text/javascript">
+        function toggleMenu(){
+            var menuToggle = document.querySelector('.toggle');
+            var banner = document.querySelector('.banner');
+            menuToggle.classList.toggle('active');
+            banner.classList.toggle('active');
+        }
+    </script>
 </body>
 </html>

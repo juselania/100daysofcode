@@ -56,11 +56,10 @@
 - [ ] Caracteres de escape
 - [ ] Flash, Vídeo e áudio
 - [ ] Combinando flash e vídeo
-- [ ] Flash leitor leitor de mp3
+- [ ] Flash leitor de mp3
 - [ ] Semântica
 - [ ] Layout
 - [ ] Designer
-- [ ] Wireframes
 - [ ] Agrupamento e semelhança
 - [ ] SEO
 
@@ -81,19 +80,52 @@
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
-- [ ] ABC da programação 
-- [ ] Instruções básicas 
-- [ ] Operadores 
-- [ ] Funções
-- [ ] Estruturas de controle
-- [ ] Métodos
-- [ ] Array
-- [ ] Decisões e Loops
-- [ ] Document Object Model (DOM)
+- [ ] Script
+- [ ] Objeto e Propriedades 
 - [ ] Eventos 
-- [ ] Ajax
-- [ ] APis
-- [ ] Depuração de Erros 
+- [ ] Métodos
+- [ ] Vinculução de arquivo JavaScript a uma página HTML
+- [ ] Variável
+- [ ] Tipos de Dados
+- [ ] Arrays
+- [ ] Operadores aritméticos e string
+- [ ] Função
+- [ ] Função Anônima
+- [ ] Escopo de variáveis
+- [ ] Objeto
+- [ ] Decisões de Loops
+- [ ] Operadores lógicos
+- [ ] Instruções IF
+- [ ] For
+- [ ] Loops while
+- [ ] Document Object Model (DOM)
+- [ ]  Elementos
+- [ ] Nodelists
+- [ ] Elemtos com Seletores CSS
+- [ ] Nós
+- [ ] Manipulação do DOM
+- [ ] Eventos
+- [ ] Ouvintes de evento
+- [ ] fluxo de evento
+- [ ] Objeto event
+- [ ] Load
+- [ ] Eventos  focus e blur
+- [ ]  Eventos de mouse
+- [ ] Ajax e Json
+- [ ] Tratando respostas ajax
+- [ ] Formato de dados
+- [ ] Json noções de objeto javaScript
+- [ ] Formulários com Ajax
+- [ ] APIs 
+- [ ] APIs de geolocalizações
+- [ ] Scripts com APIs
+- [ ] AngularJS
+- [ ] APIs de plataforma
+- [ ] Google maps API
+- [ ] Tratamento & depuração de erros 
+- [ ] Fluxo de trabalho de depuração
+- [ ] Try, catch, finally
+- [ ] Formulários e validações
 
 ## Conceitos Básicos a Banco de Dados <img src="https://image.flaticon.com/icons/png/512/603/603201.png" alt="postgresql" width="30" height="30"/> <br>
 
@@ -165,7 +197,7 @@
 | 52 | Listas, responsividade, video e imagens| 01:00hr|
 | 53 | Exercírcio (GYM - WebSite) | 01:20hr |
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
-| 55 | Entendendo Flexbox + WebSite (Flexbox) |  ...  |
+| 55 | Entendendo Flexbox + WebSite (Flexbox) | ... |
 | 56 |  |  |  |
 | 57 |  |  |  |
 | 58 |  |  |  |
