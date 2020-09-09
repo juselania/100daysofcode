@@ -197,7 +197,7 @@
 | 52 | Listas, responsividade, video e imagens| 01:00hr|
 | 53 | Exercírcio (GYM - WebSite) | 01:20hr |
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
-| 55 | Entendendo Flexbox + WebSite (Flexbox) | ... |
+| 55 | Entendendo Flex-box + WebSite (Flexbox) | ... |
 | 56 |  |  |  |
 | 57 |  |  |  |
 | 58 |  |  |  |
