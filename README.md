@@ -34,9 +34,9 @@
 - [x] Repositórios Remotos 
 - [x] Comitar arquivo/diretório
 - [x] Ramificações (Branch) 
-- [ ] Clone
-- [ ] Conceitos sobre README
-- [ ] Criando gif no README
+- [x] Clone
+- [x] Conceitos sobre README
+- [x] Criando gif no README
 - [ ] Demo README
 
 ## HTML5 <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="30" height="30"/> <br>
@@ -49,7 +49,7 @@
 - [x] Ligações 
 - [x] Tabelas 
 - [x] Formulários
-- [ ] Estrutura dos formulários
+- [x] Estrutura dos formulários
 - [ ] Validação de formulátio
 - [x] Seletores de classes e IDs no HTML
 - [ ] Iframe
@@ -81,7 +81,7 @@
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
-- [ ] Script
+- [x] Script
 - [ ] Objeto e Propriedades 
 - [ ] Eventos 
 - [ ] Métodos
@@ -199,7 +199,7 @@
 | 53 | Exercírcio (GYM - WebSite) | 01:20hr |
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
 | 55 | Entendendo Flex-box + WebSite (Flexbox) | ... |
-| 56 |  |  |  |
+| 56 | ABC da programação e entendendo scripts (JavaScript)| 01:20hr |
 | 57 |  |  |  |
 | 58 |  |  |  |
 | 59 |  |  |  |
