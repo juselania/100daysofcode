@@ -26,7 +26,7 @@
 - [ ] Vetores 
 - [ ] Funções 
 
- ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="Jullyana" height="30" width="30" /> 
+ ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="30" /> 
  
 - [x] Entendendo Git e GitHub
 - [x] Configuração
