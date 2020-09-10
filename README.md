@@ -56,7 +56,7 @@
 - [x] Tabelas 
 - [x] Formulários
 - [x] Estrutura dos formulários
-- [ ] Validação de formulátio
+- [x] Validação de formulátio
 - [x] Seletores de classes e IDs no HTML
 - [ ] Iframe
 - [ ] Caracteres de escape
@@ -69,7 +69,7 @@
 - [ ] Agrupamento e semelhança
 - [ ] SEO
 
-## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="30" height="30"/> <br>
+## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="20" height="20"/> <br>
 
 - [x] Caixas
 - [x] Seletores 
@@ -83,7 +83,7 @@
 - [ ] Imagens
 - [ ] CSS Grid
 - [ ] Flex box
-- [ ] Animações
+- [x] Animações
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
@@ -242,16 +242,16 @@
 | 90 |  |  |  |
 | 91 |  |  |  |
 | 92 |  |  |  |
-| 93 |  |  |  |
-| 94 |  |  |  |
-| 95 |  |  |  |
-| 96 |  |  |  |
-| 97 |  |  |  |
-| 98 |  |  |  |
-| 99 |  |  |  |
-| 100 |  |  |  |
+| 93 |  |  |  
+| 94 |  |  |  
+| 95 |  |  |  
+| 96 |  |  |  
+| 97 |  |  |  
+| 98 |  |  |  
+| 99 |  |  |  
+| 100 |  |  |  
 
-
+<p  align="center">
 Com ♥ Jully Developer! 
-
+</p>
  
