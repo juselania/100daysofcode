@@ -69,7 +69,7 @@
 - [ ] Agrupamento e semelhança
 - [ ] SEO
 
-## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="20" height="20"/> <br>
+## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="25" height="30"/> <br>
 
 - [x] Caixas
 - [x] Seletores 
@@ -206,7 +206,7 @@
 | 54 | Revisão (Ordem de Precedência - Lógica de Programação)| 01:00hr |
 | 55 | Entendendo Flex-box + WebSite (Flexbox) | ... |
 | 56 | ABC da programação e entendendo scripts (JavaScript)| 01:20hr |
-| 57 |  |  |  |
+| 57 | Revisão HTML e CSS |02:30|
 | 58 |  |  |  |
 | 59 |  |  |  |
 | 60 |  |  |  |
