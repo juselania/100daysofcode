@@ -207,8 +207,8 @@
 | 55 | Entendendo Flex-box + WebSite (Flexbox) | ... |
 | 56 | ABC da programação e entendendo scripts (JavaScript)| 01:20hr |
 | 57 | Revisão HTML e CSS (Formulário/listas/cores/resposividades)|02:30|
-| 58 | Teste HTML e CSS (Revisando animações/ flex-box/ responsívidade) | ... |
-| 59 |  |  |  |
+| 58 | Teste HTML e CSS (Revisando animações/ flex-box/ responsívidade) | 00:40m |
+| 59 | Revisão (Listas/formulários / flex-box) | 01:00hr |
 | 60 |  |  |  |
 | 61 |  |  |  |
 | 62 |  |  |  |
