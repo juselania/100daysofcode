@@ -22,9 +22,9 @@
 - [x] Ordem de Precedência
 - [x] Armazenar Dados na variável
 - [x] Operações aritméticas
-- [ ] Laços de repetição
-- [ ] Vetores 
-- [ ] Funções 
+- [x] Laços de repetição
+- [x] Vetores 
+- [x] Funções 
 
  ## Git e GitHub <img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_black-512.png" alt="github" height="30" width="30" /> 
  
@@ -40,10 +40,10 @@
 - [x] Conceitos sobre README
 - [x] Criando gif no README
 - [x] Demo README
-- [ ] Merge e Rebase
-- [ ] Versionando com Tags
-- [ ] Git Revert
-- [ ] Branches remotas
+- [x] Merge e Rebase
+- [x] Versionando com Tags
+- [x] Git Revert
+- [x] Branches remotas
 
 ## HTML5 <img src="https://banner2.cleanpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="30" height="30"/> <br>
 
@@ -58,15 +58,15 @@
 - [x] Estrutura dos formulários
 - [x] Validação de formulátio
 - [x] Seletores de classes e IDs no HTML
-- [ ] Iframe
-- [ ] Caracteres de escape
+- [x] Iframe
+- [x] Caracteres de escape
 - [ ] Flash, Vídeo e áudio
 - [ ] Combinando flash e vídeo
 - [ ] Flash leitor de mp3
-- [ ] Semântica
-- [ ] Layout
-- [ ] Designer
-- [ ] Agrupamento e semelhança
+- [x] Semântica
+- [x] Layout
+- [x] Designer
+- [x] Agrupamento e semelhança
 - [ ] SEO
 
 ## CSS3  <img src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" width="25" height="30"/> <br>
@@ -77,12 +77,12 @@
 - [x] Fontes
 - [x] Boxes
 - [x] Formas
-- [ ] Nav Bar
-- [ ] Trançado 
-- [ ] Resposividade
-- [ ] Imagens
-- [ ] CSS Grid
-- [ ] Flex box
+- [x] Nav Bar
+- [x] Trançado 
+- [x] Resposividade
+- [x] Imagens
+- [x] CSS Grid
+- [x] Flex box
 - [x] Animações
 
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
@@ -209,7 +209,7 @@
 | 57 | Revisão HTML e CSS (Formulário/listas/cores/resposividades)|02:30|
 | 58 | Teste HTML e CSS (Revisando animações/ flex-box/ responsívidade) | 00:40m |
 | 59 | Revisão (Listas/formulários / flex-box) | 01:00hr |
-| 60 |  |  |  
+| 60 | Exercícios de lógica de programação com loops| 00:50m  |  
 | 61 |  |  |  
 | 62 |  |  |  
 | 63 |  |  |  
