@@ -89,7 +89,7 @@
 
 - [x] Script
 - [x] Objeto e Propriedades 
-- [ ] Eventos 
+- [x] Eventos 
 - [ ] Métodos
 - [ ] Vinculução de arquivo JavaScript a uma página HTML
 - [ ] Variável
@@ -211,7 +211,7 @@
 | 59 | Revisão (Listas/formulários / flex-box) | 01:00hr |
 | 60 | Exercícios de lógica de programação com loops| 00:50m |  
 | 61 | Objeto e Propriedades (JavaScript) | 00:40m |  
-| 62 |  |  |  
+| 62 | Eventos (JavaScript)|01:00hr  |  
 | 63 |  |  |  
 | 64 |  |  |  
 | 65 |  |  |  
