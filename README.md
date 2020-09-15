@@ -209,7 +209,7 @@
 | 57 | Revisão HTML e CSS (Formulário/listas/cores/resposividades)|02:30|
 | 58 | Teste HTML e CSS (Revisando animações/ flex-box/ responsívidade) | 00:40m |
 | 59 | Revisão (Listas/formulários / flex-box) | 01:00hr |
-| 60 | Exercícios de lógica de programação com loops| 00:50m  |  
+| 60 | Exercícios de lógica de programação com loops| 00:50m |  
 | 61 |  |  |  
 | 62 |  |  |  
 | 63 |  |  |  
