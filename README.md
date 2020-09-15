@@ -88,7 +88,7 @@
 ## JavaScript   <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" width="30" height="30"/> <br>
 
 - [x] Script
-- [ ] Objeto e Propriedades 
+- [x] Objeto e Propriedades 
 - [ ] Eventos 
 - [ ] Métodos
 - [ ] Vinculução de arquivo JavaScript a uma página HTML
@@ -210,7 +210,7 @@
 | 58 | Teste HTML e CSS (Revisando animações/ flex-box/ responsívidade) | 00:40m |
 | 59 | Revisão (Listas/formulários / flex-box) | 01:00hr |
 | 60 | Exercícios de lógica de programação com loops| 00:50m |  
-| 61 |  |  |  
+| 61 | Objeto e Propriedades (JavaScript) | 00:40m |  
 | 62 |  |  |  
 | 63 |  |  |  
 | 64 |  |  |  
