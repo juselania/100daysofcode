@@ -212,7 +212,7 @@
 | 60 | Exercícios de lógica de programação com loops| 00:50m |  
 | 61 | Objeto e Propriedades (JavaScript) | 00:40m |  
 | 62 | Eventos (JavaScript)|01:00hr |  
-| 63 |  Métodos| 01:00hr  |  
+| 63 |  Métodos | 01:00hr |  
 | 64 |  |  |  
 | 65 |  |  |  
 | 66 |  |  |  
