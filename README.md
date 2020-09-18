@@ -90,8 +90,8 @@
 - [x] Script
 - [x] Objeto e Propriedades 
 - [x] Eventos 
-- [ ] Métodos
-- [ ] Vinculução de arquivo JavaScript a uma página HTML
+- [x] Métodos
+- [x] Vinculução de arquivo JavaScript a uma página HTML
 - [ ] Variável
 - [ ] Tipos de Dados
 - [ ] Arrays
@@ -213,7 +213,7 @@
 | 61 | Objeto e Propriedades (JavaScript) | 00:40m |  
 | 62 | Eventos (JavaScript)|01:00hr |  
 | 63 |  Métodos | 01:00hr |  
-| 64 |  |  |  
+| 64 | Vinculução de arquivo JavaScript a uma página HTML | 01:00hr   |  
 | 65 |  |  |  
 | 66 |  |  |  
 | 67 |  |  |  
