@@ -92,8 +92,8 @@
 - [x] Eventos 
 - [x] Métodos
 - [x] Vinculução de arquivo JavaScript a uma página HTML
-- [ ] Variável
-- [ ] Tipos de Dados
+- [x] Variável
+- [x] Tipos de Dados
 - [ ] Arrays
 - [ ] Operadores aritméticos e string
 - [ ] Função
@@ -214,7 +214,7 @@
 | 62 | Eventos (JavaScript)|01:00hr |  
 | 63 |  Métodos | 01:00hr |  
 | 64 | Vinculução de arquivo JavaScript a uma página HTML | 01:00hr   |  
-| 65 |  |  |  
+| 65 | Váriaeis e tipos de dados (JavaScript)| 01:20 hr  |  
 | 66 |  |  |  
 | 67 |  |  |  
 | 68 |  |  |  
