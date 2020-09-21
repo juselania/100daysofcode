@@ -95,9 +95,9 @@
 - [x] Variável
 - [x] Tipos de Dados
 - [x] Arrays
-- [ ] Operadores aritméticos e string
-- [ ] Função
-- [ ] Função Anônima
+- [x] Operadores aritméticos e string
+- [x] Função
+- [x] Função Anônima
 - [ ] Escopo de variáveis
 - [ ] Objeto
 - [ ] Decisões de Loops
@@ -199,7 +199,8 @@
 | 47 | Desafio (HTML E CSS) - Urban-Fashion |  00:40m |
 | 48 | Designer de imagens (HTML & CSS)|00:40m |
 | 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
-| 50 | Entrada de estilos + Criação de Layout| 02:30 horas |
+| 50 | Entrada de estilos + Criação de Layout| 02:30 67"
+horas |
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
 | 52 | Listas, responsividade, video e imagens| 01:00hr|
 | 53 | Exercírcio (GYM - WebSite) | 01:20hr |
@@ -216,7 +217,7 @@
 | 64 | Vinculução de arquivo JavaScript a uma página HTML | 01:00hr |  
 | 65 | Variável e tipos de dados (JavaScript)| 01:20 hr  |  
 | 66 | Arrays | 03:10 hr  |  
-| 67 |  |  |  
+| 67 | Operadores aritméticos e string / Função / Função Anônima | 02:30hr |  
 | 68 |  |  |  
 | 69 |  |  |  
 | 70 |  |  |  
