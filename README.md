@@ -199,8 +199,7 @@
 | 47 | Desafio (HTML E CSS) - Urban-Fashion |  00:40m |
 | 48 | Designer de imagens (HTML & CSS)|00:40m |
 | 49 | Estilos de bordas e formas elípticas (HTML & CSS)|00:40m  |
-| 50 | Entrada de estilos + Criação de Layout| 02:30 67"
-horas |
+| 50 | Entrada de estilos + Criação de Layout| 02:30 67"horas |
 | 51 | ABC da programação (JavaScript) | 03:40 horas |
 | 52 | Listas, responsividade, video e imagens| 01:00hr|
 | 53 | Exercírcio (GYM - WebSite) | 01:20hr |
