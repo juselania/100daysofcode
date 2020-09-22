@@ -98,7 +98,7 @@
 - [x] Operadores aritméticos e string
 - [x] Função
 - [x] Função Anônima
-- [ ] Escopo de variáveis
+- [x] Escopo de variáveis
 - [ ] Objeto
 - [ ] Decisões de Loops
 - [ ] Operadores lógicos
@@ -217,7 +217,7 @@
 | 65 | Variável e tipos de dados (JavaScript)| 01:20 hr  |  
 | 66 | Arrays | 03:10 hr  |  
 | 67 | Operadores aritméticos e string / Função / Função Anônima | 02:30hr |  
-| 68 |  |  |  
+| 68 |  Escopo de variáveis| 01:00hr |  
 | 69 |  |  |  
 | 70 |  |  |  
 | 71 |  |  |  
