@@ -99,7 +99,7 @@
 - [x] Função
 - [x] Função Anônima
 - [x] Escopo de variáveis
-- [ ] Objeto
+- [x] Objeto
 - [ ] Decisões de Loops
 - [ ] Operadores lógicos
 - [ ] Instruções IF
@@ -218,8 +218,8 @@
 | 66 | Arrays | 03:10 hr  |  
 | 67 | Operadores aritméticos e string / Função / Função Anônima | 02:30hr |  
 | 68 |  Escopo de variáveis| 01:00hr |  
-| 69 |  |  |  
-| 70 |  |  |  
+| 69 |  Objeto| 01:00hr |  
+| 70 | Objeto | 01:10hr |  
 | 71 |  |  |  
 | 72 |  |  |  
 | 73 |  |  |  
