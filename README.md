@@ -60,7 +60,7 @@
 - [x] Seletores de classes e IDs no HTML
 - [x] Iframe
 - [x] Caracteres de escape
-- [ ] Flash, Vídeo e áudio
+- [x] Flash, Vídeo e áudio
 - [ ] Combinando flash e vídeo
 - [ ] Flash leitor de mp3
 - [x] Semântica
@@ -100,7 +100,7 @@
 - [x] Função Anônima
 - [x] Escopo de variáveis
 - [x] Objeto
-- [ ] Decisões de Loops
+- [x] Decisões de Loops
 - [ ] Operadores lógicos
 - [ ] Instruções IF
 - [ ] For
@@ -220,7 +220,7 @@
 | 68 |  Escopo de variáveis| 01:00hr |  
 | 69 |  Objeto| 01:00hr |  
 | 70 | Objeto | 01:10hr |  
-| 71 |  |  |  
+| 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
 | 72 |  |  |  
 | 73 |  |  |  
 | 74 |  |  |  
