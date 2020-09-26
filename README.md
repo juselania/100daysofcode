@@ -221,7 +221,7 @@
 | 69 |  Objeto | 01:00hr |  
 | 70 |  Objeto | 01:10hr |  
 | 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
-| 72 | <a href="https://www.figma.com/file/gXG2Esw8cdgoJCtJJCXfNo/Untitled?node-id=0%3A1"> Figma </a> | ... |  
+| 72 | <a href="https://www.figma.com/file/gXG2Esw8cdgoJCtJJCXfNo/Untitled?node-id=0%3A1"> Figma </a> | 03:30hrs |  
 | 73 |  |  |  
 | 74 |  |  |  
 | 75 |  |  |  
