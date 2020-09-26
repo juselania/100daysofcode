@@ -142,7 +142,7 @@
 
 ## Design <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="20" height="20"/> <br>
 
-- [ ] Figma 
+- [x] Figma 
 
  <h1 align="center">
    🚀  Mão no Código 
@@ -218,10 +218,10 @@
 | 66 | Arrays | 03:10 hr  |  
 | 67 | Operadores aritméticos e string / Função / Função Anônima | 02:30hr |  
 | 68 |  Escopo de variáveis| 01:00hr |  
-| 69 |  Objeto| 01:00hr |  
-| 70 | Objeto | 01:10hr |  
+| 69 |  Objeto | 01:00hr |  
+| 70 |  Objeto | 01:10hr |  
 | 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
-| 72 |  |  |  
+| 72 | Figma  | ... |  
 | 73 |  |  |  
 | 74 |  |  |  
 | 75 |  |  |  
