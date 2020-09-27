@@ -101,8 +101,8 @@
 - [x] Escopo de variáveis
 - [x] Objeto
 - [x] Decisões de Loops
-- [ ] Operadores lógicos
-- [ ] Instruções IF
+- [x] Operadores lógicos
+- [x] Instruções IF
 - [ ] For
 - [ ] Loops while
 - [ ] Document Object Model (DOM)
@@ -222,7 +222,7 @@
 | 70 |  Objeto | 01:10hr |  
 | 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
 | 72 | <a href="https://www.figma.com/file/gXG2Esw8cdgoJCtJJCXfNo/Untitled?node-id=0%3A1"> Figma </a> | 03:30hrs |  
-| 73 |  |  |  
+| 73 | Operadores lógicos/ Instruções IF | 00:50m  |  
 | 74 |  |  |  
 | 75 |  |  |  
 | 76 |  |  |  
