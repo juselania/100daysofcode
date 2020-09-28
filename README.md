@@ -103,8 +103,8 @@
 - [x] Decisões de Loops
 - [x] Operadores lógicos
 - [x] Instruções IF
-- [ ] For
-- [ ] Loops while
+- [x] For
+- [x] Loops while
 - [ ] Document Object Model (DOM)
 - [ ]  Elementos
 - [ ] Nodelists
@@ -223,7 +223,7 @@
 | 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
 | 72 | <a href="https://www.figma.com/file/gXG2Esw8cdgoJCtJJCXfNo/Untitled?node-id=0%3A1"> Figma </a> | 03:30hrs |  
 | 73 | Operadores lógicos/ Instruções IF | 00:50m  |  
-| 74 |  |  |  
+| 74 | For / Loops While| 00:52m |  
 | 75 |  |  |  
 | 76 |  |  |  
 | 77 |  |  |  
