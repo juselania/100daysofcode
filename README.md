@@ -225,7 +225,7 @@
 | 73 | Operadores lógicos/ Instruções IF | 00:50m  |  
 | 74 | For / Loops While| 00:52m | 
 | 75 | DOM | 01:00hr |  
-| 76 |  |  |  
+| 76 | DOM | 03:00hr |  
 | 77 |  |  |  
 | 78 |  |  |  
 | 79 |  |  |  
