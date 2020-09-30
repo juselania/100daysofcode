@@ -106,7 +106,7 @@
 - [x] For
 - [x] Loops while
 - [x] Document Object Model (DOM)
-- [ ]  Elementos
+- [x] Elementos
 - [ ] Nodelists
 - [ ] Elemtos com Seletores CSS
 - [ ] Nós
@@ -226,7 +226,7 @@
 | 74 | For / Loops While| 00:52m | 
 | 75 | DOM | 01:00hr |  
 | 76 | DOM | 03:00hr |  
-| 77 |  |  |  
+| 77 | Elementos | 01:00hr |  
 | 78 |  |  |  
 | 79 |  |  |  
 | 80 |  |  |  
