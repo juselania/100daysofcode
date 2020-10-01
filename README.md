@@ -107,7 +107,7 @@
 - [x] Loops while
 - [x] Document Object Model (DOM)
 - [x] Elementos
-- [ ] Nodelists
+- [x] Nodelists
 - [ ] Elemtos com Seletores CSS
 - [ ] Nós
 - [ ] Manipulação do DOM
@@ -227,7 +227,7 @@
 | 75 | DOM | 01:00hr |  
 | 76 | DOM | 03:00hr |  
 | 77 | Elementos | 01:00hr |  
-| 78 |  |  |  
+| 78 | Nodelists | 00:40hr |  
 | 79 |  |  |  
 | 80 |  |  |  
 | 81 |  |  |  
