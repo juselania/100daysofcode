@@ -61,8 +61,8 @@
 - [x] Iframe
 - [x] Caracteres de escape
 - [x] Flash, Vídeo e áudio
-- [ ] Combinando flash e vídeo
-- [ ] Flash leitor de mp3
+- [x] Combinando flash e vídeo
+- [x] Flash leitor de mp3
 - [x] Semântica
 - [x] Layout
 - [x] Designer
@@ -228,7 +228,7 @@
 | 76 | DOM | 03:00hr |  
 | 77 | Elementos | 01:00hr |  
 | 78 | Nodelists | 00:40hr |  
-| 79 |  |  |  
+| 79 | Combinando flash e vídeo/ Combinando flash e vídeo | 00:52hr |  
 | 80 |  |  |  
 | 81 |  |  |  
 | 82 |  |  |  
