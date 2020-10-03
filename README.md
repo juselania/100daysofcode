@@ -108,8 +108,8 @@
 - [x] Document Object Model (DOM)
 - [x] Elementos
 - [x] Nodelists
-- [ ] Elemtos com Seletores CSS
-- [ ] Nós
+- [x] Elemtos com Seletores CSS
+- [x] Nós
 - [ ] Manipulação do DOM
 - [ ] Eventos
 - [ ] Ouvintes de evento
@@ -229,7 +229,7 @@
 | 77 | Elementos | 01:00hr |  
 | 78 | Nodelists | 00:40hr |  
 | 79 | Combinando flash e vídeo/ Combinando flash e vídeo | 00:52hr |  
-| 80 |  |  |  
+| 80 | Elemtos com Seletores CSS / Nós | 01:40hr  |  
 | 81 |  |  |  
 | 82 |  |  |  
 | 83 |  |  |  
