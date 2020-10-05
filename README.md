@@ -110,7 +110,7 @@
 - [x] Nodelists
 - [x] Elemtos com Seletores CSS
 - [x] Nós
-- [ ] Manipulação do DOM
+- [x] Manipulação do DOM
 - [ ] Eventos
 - [ ] Ouvintes de evento
 - [ ] fluxo de evento
@@ -230,7 +230,7 @@
 | 78 | Nodelists | 00:40hr |  
 | 79 | Combinando flash e vídeo/ Combinando flash e vídeo | 00:52hr |  
 | 80 | Elemtos com Seletores CSS / Nós | 01:40hr  |  
-| 81 |  |  |  
+| 81 | Manipulação do DOM | 00:55m |  
 | 82 |  |  |  
 | 83 |  |  |  
 | 84 |  |  |  
