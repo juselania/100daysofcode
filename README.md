@@ -128,7 +128,7 @@
 - [ ] Scripts com APIs
 - [ ] AngularJS
 - [ ] APIs de plataforma
-- [ ] Google maps API
+- [x] Google maps API
 - [ ] Tratamento & depuração de erros 
 - [ ] Fluxo de trabalho de depuração
 - [ ] Try, catch, finally
@@ -231,7 +231,7 @@
 | 79 | Combinando flash e vídeo/ Combinando flash e vídeo | 00:52hr |  
 | 80 | Elemtos com Seletores CSS / Nós | 01:40hr  |  
 | 81 | Manipulação do DOM | 00:55m |  
-| 82 |  |  |  
+| 82 | Google maps API | 01:00hr |  
 | 83 |  |  |  
 | 84 |  |  |  
 | 85 |  |  |  
