@@ -113,11 +113,11 @@
 - [x] Manipulação do DOM
 - [x] Eventos
 - [x] Ouvintes de evento
-- [ ] fluxo de evento
-- [ ] Objeto event
-- [ ] Load
+- [x] fluxo de evento
+- [x] Objeto event
+- [x] Load
 - [ ] Eventos  focus e blur
-- [ ]  Eventos de mouse
+- [ ] Eventos de mouse
 - [ ] Ajax e Json
 - [ ] Tratando respostas ajax
 - [ ] Formato de dados
@@ -233,7 +233,7 @@
 | 81 | Manipulação do DOM | 00:55m |  
 | 82 | Google maps API | 01:00hr |  
 | 83 | Eventos / Ouvintes de evento| 03:50hrs |  
-| 84 |  |  |  
+| 84 | Objeto event / Load | 03:00hrs  |  
 | 85 |  |  |  
 | 86 |  |  |  
 | 87 |  |  |  
