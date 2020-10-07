@@ -111,8 +111,8 @@
 - [x] Elemtos com Seletores CSS
 - [x] Nós
 - [x] Manipulação do DOM
-- [ ] Eventos
-- [ ] Ouvintes de evento
+- [x] Eventos
+- [x] Ouvintes de evento
 - [ ] fluxo de evento
 - [ ] Objeto event
 - [ ] Load
@@ -232,7 +232,7 @@
 | 80 | Elemtos com Seletores CSS / Nós | 01:40hr  |  
 | 81 | Manipulação do DOM | 00:55m |  
 | 82 | Google maps API | 01:00hr |  
-| 83 |  |  |  
+| 83 | Eventos / Ouvintes de evento| 03:50hrs |  
 | 84 |  |  |  
 | 85 |  |  |  
 | 86 |  |  |  
