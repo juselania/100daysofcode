@@ -116,7 +116,7 @@
 - [x] fluxo de evento
 - [x] Objeto event
 - [x] Load
-- [ ] Eventos  focus e blur
+- [x] Eventos  focus e blur
 - [ ] Eventos de mouse
 - [ ] Ajax e Json
 - [ ] Tratando respostas ajax
@@ -234,7 +234,7 @@
 | 82 | Google maps API | 01:00hr |  
 | 83 | Eventos / Ouvintes de evento| 03:50hrs |  
 | 84 | Objeto event / Load | 03:00hrs  |  
-| 85 |  |  |  
+| 85 |  Eventos  focus e blur | 02:10hr |  
 | 86 |  |  |  
 | 87 |  |  |  
 | 88 |  |  |  
