@@ -118,12 +118,7 @@
 - [x] Load
 - [x] Eventos  focus e blur
 - [x] Eventos de mouse
-- [ ] Ajax e Json
-- [ ] Tratando respostas ajax
-- [ ] Formato de dados
-- [ ] Json noções de objeto javaScript
-- [ ] Formulários com Ajax
-- [ ] APIs de plataforma
+- [x] Ajax e Json
 - [x] Google maps API
 - [ ] Tratamento & depuração de erros 
 - [ ] Fluxo de trabalho de depuração
@@ -232,7 +227,7 @@
 | 84 | Objeto event / Load | 03:00hrs  |  
 | 85 | Eventos  focus e blur | 02:10hr |  
 | 86 | Introdução a Banco de Dados | 01:30hr  |  
-| 87 | Banco de dados não relacional /  |  |  
+| 87 | Banco de dados não relacional | 01:00hr |  
 | 88 |  |  |  
 | 89 |  |  |  
 | 90 |  |  |  
