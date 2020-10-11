@@ -117,16 +117,12 @@
 - [x] Objeto event
 - [x] Load
 - [x] Eventos  focus e blur
-- [ ] Eventos de mouse
+- [x] Eventos de mouse
 - [ ] Ajax e Json
 - [ ] Tratando respostas ajax
 - [ ] Formato de dados
 - [ ] Json noções de objeto javaScript
 - [ ] Formulários com Ajax
-- [ ] APIs 
-- [ ] APIs de geolocalizações
-- [ ] Scripts com APIs
-- [ ] AngularJS
 - [ ] APIs de plataforma
 - [x] Google maps API
 - [ ] Tratamento & depuração de erros 
@@ -136,8 +132,8 @@
 
 ## Conceitos Básicos a Banco de Dados <img src="https://image.flaticon.com/icons/png/512/603/603201.png" alt="postgresql" width="30" height="30"/> <br>
 
-- [ ] Introdução a Banco de Dados 
-- [ ] Banco de dados não relacional
+- [x] Introdução a Banco de Dados 
+- [x] Banco de dados não relacional
 - [ ] Express 
 
 ## Design <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="20" height="20"/> <br>
@@ -234,9 +230,9 @@
 | 82 | Google maps API | 01:00hr |  
 | 83 | Eventos / Ouvintes de evento| 03:50hrs |  
 | 84 | Objeto event / Load | 03:00hrs  |  
-| 85 |  Eventos  focus e blur | 02:10hr |  
-| 86 |  |  |  
-| 87 |  |  |  
+| 85 | Eventos  focus e blur | 02:10hr |  
+| 86 | Introdução a Banco de Dados | 01:30hr  |  
+| 87 | Banco de dados não relacional /  |  |  
 | 88 |  |  |  
 | 89 |  |  |  
 | 90 |  |  |  
