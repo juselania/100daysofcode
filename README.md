@@ -229,7 +229,7 @@
 | 86 | Introdução a Banco de Dados | 01:30hr  |  
 | 87 | Banco de dados não relacional | 01:00hr |  
 | 88 | Tratamento & depuração de erros  | 01:20hr  |  
-| 89 |  |  |  
+| 89 | Depuração | 01:00hr |  
 | 90 |  |  |  
 | 91 |  |  |  
 | 92 |  |  |  
