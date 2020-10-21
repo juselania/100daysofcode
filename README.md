@@ -120,7 +120,11 @@
 - [x] Eventos de mouse
 - [x] Ajax e Json
 - [x] Google maps API
+<<<<<<< HEAD
 - [x] Tratamento & depuração de erros 
+=======
+- [ ] Tratamento & depuração de erros 
+>>>>>>> 4bf23b4e9e94fda08916794bff83854683c48b76
 - [ ] Fluxo de trabalho de depuração
 - [ ] Try, catch, finally
 - [ ] Formulários e validações
@@ -228,8 +232,13 @@
 | 85 | Eventos  focus e blur | 02:10hr |  
 | 86 | Introdução a Banco de Dados | 01:30hr  |  
 | 87 | Banco de dados não relacional | 01:00hr |  
+<<<<<<< HEAD
 | 88 | Tratamento & depuração de erros  | 01:20hr  |  
 | 89 | Depuração | 01:00hr |  
+=======
+| 88 |  |  |  
+| 89 |  |  |  
+>>>>>>> 4bf23b4e9e94fda08916794bff83854683c48b76
 | 90 |  |  |  
 | 91 |  |  |  
 | 92 |  |  |  
@@ -243,10 +252,14 @@
 | 100 |  |  |  
 
 <p  align="center">
+<<<<<<< HEAD
 
        [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jullydeveloper/) 
 
 
+=======
+Com ♥ Jully Developer! 
+>>>>>>> 4bf23b4e9e94fda08916794bff83854683c48b76
 </p>
  
  
