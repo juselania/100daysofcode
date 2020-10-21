@@ -243,7 +243,10 @@
 | 100 |  |  |  
 
 <p  align="center">
-Com ♥ Jully Developer! 
+
+       [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jullydeveloper/) 
+
+
 </p>
  
  
