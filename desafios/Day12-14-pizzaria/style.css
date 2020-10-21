@@ -1,0 +1,298 @@
+body{
+    margin:0px;
+    scroll-padding: 0px;
+    background-image: url('./image/0751.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.navigation-container{
+    width: 100%;
+    height: 100%;
+    background-color: #ea272d;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.navigation-content{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 12%;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li a{
+    padding: 0px 30px;
+    font-family: calibri;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.whats-new{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+.new{
+    width: 540px;
+    height: 320px;
+    margin: 10px;
+    background-image: url('./image/photo-15.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.new p{
+  
+    color: #FFFFFF;
+    line-height: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+.new p:nth-child(1){
+    align-items: center;
+    font-size: 40px;
+    font-family: calibri;
+    font-weight: bold;
+}
+.new p:nth-child(2){
+    font-size: 30px;
+    font-family: myriad pro;
+}
+.new button{
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #ea272d;
+    text-align: center;
+    font-family: calibri;
+    font-weight: 400;
+    color: #FFFF;
+    font-size: 16px;
+    border: none;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    outline: none;
+}
+.search, .order{
+    width: 540px;
+    height: 150px;
+    margin: 10px;
+    background-color: #b1b1b1;
+}
+.tools{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.first-row{
+    display: flex;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.order{
+    background-image: url('./image/0751.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search{
+    background-image: url('./image/70ed18.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+.search p{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: calibri;
+    font-weight: bold;
+    line-height: 0px;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.5);
+}
+.text{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    width: 250px;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.text input[type=search]{
+    border: none;
+    background-color: transparent;
+    color: #000000;
+    text-align: center;
+    outline: none;
+}
+.text button{
+    height: 35px;
+    width: 70px;
+    border: none;
+    color: #0b0b0b;
+    font-family: calibri;
+    font-weight: bold;
+    outline: none;
+    border-radius: 0px 20px 20px 0px ;
+    border-left: 1px solid #CDCACA;
+}
+.order{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.order a{
+    font-size: 40px;
+    font-family: calibri;
+    font-weight: bold;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+    color: #FFFFFF;
+}
+.food-1, .food-2, .food-3{
+    width: 354px;
+    height: 350px;
+    margin: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px  5%;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.food-1 p, .food-2 p, .food-3 p{
+    margin: 0px;
+    padding: 0px;
+    color: #FFFFFF;
+    font-family: calibri;
+    line-height: 40px;
+}
+.name p:nth-child(1){
+    font-weight: bold;
+    font-size: 40px;
+}
+.name p:nth-child(2){
+    font-weight: 400;
+    font-size: 30px;
+}
+.second-row{
+    display: flex;
+}
+.food-1{
+    background-image: url('./image/unnamed.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.food-2{
+    background-image: url('./image/slide2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.food-3{
+    background-image: url('./image/cofee.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.price button{
+    color: #FFFF;
+    border: none;
+    background-color: #ea272d;
+    width: 70px;
+    height: 35px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.flavor, .breakfast{
+    font-family: calibri;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 0px;
+    width: 540px;
+    height: 180px;
+    margin: 0px;
+background-color: #b1b1b1;
+}
+.third-row{
+    display: flex;
+}
+.flavor{
+    background-image: url('./image/44.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.breakfast{
+    background-image: url('./image/slide3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.flavor p:nth-child(1),
+.breakfast p:nth-child(1){
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+}
+.flavor p:nth-child(2),
+.breakfast p:nth-child(2){
+   color: rgba(255,255,255,0.8);
+    font-size: 20px;
+    text-align: center;
+}
+.flavor p , .breakfast p{
+    margin: 0px;
+    padding: 0px;
+line-height: 40px;
+}
+.footer{
+    background-color: #0a0a0a;
+    height: 150px;
+}
+.social ul{
+    display: flex;
+}
+.social img{
+    height: 15px;
+}
+.social ul l a{
+    padding: 15px;
+}
+.footer-menu ul li a{
+    border-left: 3px solid #2e2e2e;
+    color: rgba(255,255,255,0.8);
+}
+.navigation-content{
+    border-bottom:2px solid rgba(255,255,255,0.1);
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: myriad pro;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.copyright p{
+    color: #b9b9b9;
+}
+.new, .search,.order,  .food-1,.food-2,.food-3,.flavor,.breakfast{
+    border-radius: 10px;
+}
