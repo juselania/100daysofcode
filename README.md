@@ -129,7 +129,7 @@
 
 - [x] Introdução a Banco de Dados 
 - [x] Banco de dados não relacional
-- [ ] Express 
+- [x] Express 
 
 ## Design <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="20" height="20"/> <br>
 
@@ -230,7 +230,7 @@
 | 87 | Banco de dados não relacional | 01:00hr |  
 | 88 | Tratamento & depuração de erros  | 01:20hr  |  
 | 89 | Depuração | 01:00hr |  
-| 90 |  |  |  
+| 90 | Express  | 01:00hr |  
 | 91 |  |  |  
 | 92 |  |  |  
 | 93 |  |  |  
