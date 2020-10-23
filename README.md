@@ -121,7 +121,7 @@
 - [x] Ajax e Json
 - [x] Google maps API
 - [x] Tratamento & depuração de erros 
-- [ ] Fluxo de trabalho de depuração
+- [x] Fluxo de trabalho de depuração
 - [ ] Try, catch, finally
 - [ ] Formulários e validações
 
@@ -232,7 +232,7 @@
 | 89 | Depuração | 01:00hr |  
 | 90 | Express  | 01:00hr |  
 | 91 |  SEO | 02:40hrs |  
-| 92 |  |  |  
+| 92 |  Fluxo de trabalho de depuração | 01:30hr  |  
 | 93 |  |  |  
 | 94 |  |  |  
 | 95 |  |  |  
