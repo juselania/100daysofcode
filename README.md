@@ -233,7 +233,7 @@
 | 90 | Express  | 01:00hr |  
 | 91 |  SEO | 02:40hrs |  
 | 92 |  Fluxo de trabalho de depuração | 01:30hr  |  
-| 93 |  |  |  
+| 93 |  Try | 02:30hrs |  
 | 94 |  |  |  
 | 95 |  |  |  
 | 96 |  |  |  
