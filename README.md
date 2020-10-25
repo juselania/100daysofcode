@@ -210,7 +210,7 @@
 | 67 | Operadores aritméticos e string / Função / Função Anônima | 02:30hr |  
 | 68 |  Escopo de variáveis| 01:00hr |  
 | 69 |  Objeto | 01:00hr |  
-| 70 |  Objeto | 01:10hr |  
+| 70 |  Objeto | 01:10hr |  git init 
 | 71 | Flash, Vídeo e áudio e Decisões de loop | 02:00hrs  |  
 | 72 | <a href="https://www.figma.com/file/gXG2Esw8cdgoJCtJJCXfNo/Untitled?node-id=0%3A1"> Figma </a> | 03:30hrs |  
 | 73 | Operadores lógicos/ Instruções IF | 00:50m  |  
@@ -234,7 +234,7 @@
 | 91 |  SEO | 02:40hrs |  
 | 92 |  Fluxo de trabalho de depuração | 01:30hr  |  
 | 93 |  Try | 02:30hrs |  
-| 94 |  |  |  
+| 94 | Catch | 01:20hr |  
 | 95 |  |  |  
 | 96 |  |  |  
 | 97 |  |  |  
