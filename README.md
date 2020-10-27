@@ -235,7 +235,7 @@
 | 92 |  Fluxo de trabalho de depuração | 01:30hr  |  
 | 93 |  Try | 02:30hrs |  
 | 94 | Catch | 01:20hr |  
-| 95 |  |  |  
+| 95 | Teste try, catch | 01:30hr |  
 | 96 |  |  |  
 | 97 |  |  |  
 | 98 |  |  |  
@@ -244,5 +244,7 @@
 
 <p  align="center">
 </p>
+
+
  
  
