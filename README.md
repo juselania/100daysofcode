@@ -238,7 +238,7 @@
 | 95 | Teste try, catch | 01:30hr |  
 | 96 | Finally |  01:00hr |  
 | 97 | Revisão try, catch |  01:00hr |  
-| 98 |  |  |  
+| 98 | Validação de formulários com HTML5, CSS3 e  Javascript | 03:00hr |  
 | 99 |  |  |  
 | 100 |  |  |  
 
