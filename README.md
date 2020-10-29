@@ -237,7 +237,7 @@
 | 94 | Catch | 01:20hr |  
 | 95 | Teste try, catch | 01:30hr |  
 | 96 | Finally |  01:00hr |  
-| 97 |  |  |  
+| 97 | Revisão try, catch |  01:00hr |  
 | 98 |  |  |  
 | 99 |  |  |  
 | 100 |  |  |  
