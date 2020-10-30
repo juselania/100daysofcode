@@ -122,7 +122,7 @@
 - [x] Google maps API
 - [x] Tratamento & depuração de erros 
 - [x] Fluxo de trabalho de depuração
-- [ ] Try, catch, finally
+- [x] Try, catch, finally
 - [ ] Formulários e validações
 
 ## Conceitos Básicos a Banco de Dados <img src="https://image.flaticon.com/icons/png/512/603/603201.png" alt="postgresql" width="30" height="30"/> <br>
