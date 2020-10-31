@@ -123,7 +123,7 @@
 - [x] Tratamento & depuração de erros 
 - [x] Fluxo de trabalho de depuração
 - [x] Try, catch, finally
-- [ ] Formulários e validações
+- [x] Formulários e validações
 
 ## Conceitos Básicos a Banco de Dados <img src="https://image.flaticon.com/icons/png/512/603/603201.png" alt="postgresql" width="30" height="30"/> <br>
 
@@ -239,7 +239,7 @@
 | 96 | Finally |  01:00hr |  
 | 97 | Revisão try, catch |  01:00hr |  
 | 98 | Validação de formulários com HTML5, CSS3 e  Javascript | 03:00hr |  
-| 99 | Validação de formulários (na prática)| 03:27hr |  
+| 99 | <a href="https://github.com/juselania/form-validation"> Validação de formulários (na prática)</a>| 03:27hr |  
 | 100 |  |  |  
 
 <p  align="center">
