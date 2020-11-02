@@ -243,6 +243,9 @@
 | 100 | <a href="https://github.com/juselania/100daysofcode/tree/master/desafios/day100"> Animação com HTML5 e CSS3 </a>| 01:00hr |  
 
 <p  align="center">
+   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jusel%C3%A2nia-silva-56a375197/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jullydeveloper/) 
+
+
 </p>
 
 
