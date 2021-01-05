@@ -102,7 +102,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 <h3 align="center">
 
- [Jully Developer](https://www.instagram.com/jullydeveloper/)
+ [Jusy Developer](https://www.instagram.com/jusydeveloper/)
 
     
 </h3>
